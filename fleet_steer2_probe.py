@@ -1,2 +1,2 @@
 def tag():
-    return 'v1'
+    return 'IMPOSSIBLE_SENTINEL_XYZ'
