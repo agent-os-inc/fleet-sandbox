@@ -3,3 +3,7 @@
 The fleet clones this repo, a brief modifies it on its own branch, and opens a PR.
 Safe to delete and recreate.
 """
+
+def add_numbers(a, b):
+    return a + b
+
